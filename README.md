@@ -33,17 +33,16 @@ A memory-based game built using **HTML, CSS**, and **vanilla JavaScript**. Press
    ```bash
    git clone https://github.com/your-username/simon-says-game.git
 
-2.Navigate to project folder:
+2. Navigate to project folder:
 
    cd simon-says-game
+   
 
-3.Run the game:
+3. Run the game:
 
   Open index.html directly in your browser
   
-    or
-    
-  Use Live Server in VS Code (recommended)
+  or Use Live Server in VS Code
 
 ---
 
@@ -52,6 +51,7 @@ A memory-based game built using **HTML, CSS**, and **vanilla JavaScript**. Press
 ---
 
 🎮 How to Play
+
   1.Press any key to start the game.
   
   2.A button will flash (light up). Remember its position.
@@ -64,12 +64,14 @@ A memory-based game built using **HTML, CSS**, and **vanilla JavaScript**. Press
   
   6.Press any key again to restart.
 
-  ---
+---
 
 📁 Project Structure
 
   simon-says-game/
+  
   │
+  
   ├── index.html         # Main HTML file
   
   ├── style.css          # Styling and layout
@@ -81,6 +83,7 @@ A memory-based game built using **HTML, CSS**, and **vanilla JavaScript**. Press
   ---
 
 🙌 Contributing
+
 If you'd like to add sound, animations, or levels, feel free to fork and submit a PR. Contributions are welcome!
 
 ---
